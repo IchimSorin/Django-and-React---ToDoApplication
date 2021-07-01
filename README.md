@@ -1,5 +1,5 @@
 ![Django and React - To Do Application](https://user-images.githubusercontent.com/34681854/123550272-793b3180-d775-11eb-8eb7-3b77af0f2f21.gif)
-# Django-and-React---ToDoApplication
+# Django-and-React---ToDoApplication.
 To Do Application built off Django (including the Django REST Framework for API CRUD operations) and React
 TUTORIAL LINK: https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
 <br><hr>
